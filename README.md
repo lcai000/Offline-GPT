@@ -10,5 +10,6 @@
 ## Usage
   &emsp;-run program:`python app.py`<br>
   &emsp;-switch between chat window and game window using keyboard: `Ctrl+1`<br>
-  
-  
+
+## Disclaimer
+  &emsp;-Please note that this project is intended for educational purposes and might not be suitable for production environments. The project is provided "as is", without warranty of any kind. In no event shall the authors or copyright holders be liable for any claim, damages or other liability arising from the use of this project.<br>
